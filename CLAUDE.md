@@ -2,6 +2,10 @@
 
 CLI de notas en Python para gestionar notas desde la terminal.
 
+## Contexto del usuario
+
+Soy Product Designer aprendiendo Vibe Coding. Prefiero explicaciones claras y simples.
+
 ## Estructura
 
 - `notes.py` - Script principal de la CLI
